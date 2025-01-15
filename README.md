@@ -23,7 +23,7 @@ service xray stop
 ### 基于xray的vless+reality
 #### 执行命令：
 ```
-apk update && wget https://raw.githubusercontent.com/lgdlkq/32m/main/xr_install.sh -O xr_install.sh && ash xr_install.sh
+apk update && wget https://raw.githubusercontent.com/snowson-wang/32m/main/xr_install.sh -O xr_install.sh && ash xr_install.sh
 ```
 #### 完全删除命令：
 
